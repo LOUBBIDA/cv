@@ -1,0 +1,44 @@
+/* .container{
+    background-color: aquamarine;
+} */
+ .row{
+     background-color:  #464343;
+     border-radius: 5px;
+ }
+ .w-3{
+   
+    width: 250px;
+    height: 250px;
+    background-image: cover;
+    margin-top: 72px;
+    margin-left: 50px;
+     
+}
+ h1{
+     text-decoration: underline;
+ }
+ .image{
+     width: 100px;
+     height: 100px;
+     border-radius: 50%;
+     border-color: red;
+     border-style: dashed;
+ }
+ .arij{
+     margin-top: 200px;
+ }
+  
+ .span{
+     color: white;
+     font-size: medium;
+ }
+ h6.text {
+     text-decoration: underline;
+ }
+ .img{
+     width: 500px;
+     height: 462p;
+ }
+ body{
+     background: linear-gradient( to top ,rgba(235, 40, 14, 0.897), #534d4d  );
+ }
